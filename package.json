@@ -62,7 +62,11 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.7.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "create-stylesheet": "^0.3.0",
+    "object-assign": "^4.0.1",
+    "pdfjs-dist": "1.4.162"
+  },
   "files": [
     "dist",
     "src",
